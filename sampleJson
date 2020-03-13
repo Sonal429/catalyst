@@ -1,0 +1,121 @@
+{
+	"Organization": [{
+		"name": "Tcs",
+		"Department": [{
+				"name": "sale",
+				"Groups": [{
+						"name": "Group1",
+						"Team": [{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							},
+							{
+								"name": "#3 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							},
+							{
+								"name": "#3 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							}
+						]
+					},
+					{
+						"name": "Group2",
+						"Team": [{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							},
+							{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							},
+							{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Managment",
+				"Groups": [{
+						"name": "Group1",
+						"Team": [{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							},
+							{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							}
+						]
+					},
+					{
+						"name": "Group2",
+						"Team": [{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							},
+							{
+								"name": "#4 Enigma Team",
+								"Score Keeper": "John Doe",
+								"Years of Experience": "4.6 Years",
+								"Last activity": [{
+									"Game Starting Team": "4:45 pm",
+									"Current Situtation Card": 48939
+								}]
+							}
+						]
+					}
+				]
+			}
+		]
+	}]
+
+}
