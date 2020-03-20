@@ -2,120 +2,910 @@
 	"Organization": [{
 		"name": "Tcs",
 		"Department": [{
-				"name": "sale",
-				"Groups": [{
-						"name": "Group1",
-						"Team": [{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							},
-							{
-								"name": "#3 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							},
-							{
-								"name": "#3 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							}
-						]
-					},
-					{
-						"name": "Group2",
-						"Team": [{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							},
-							{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							},
-							{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "Managment",
-				"Groups": [{
-						"name": "Group1",
-						"Team": [{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							},
-							{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							}
-						]
-					},
-					{
-						"name": "Group2",
-						"Team": [{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							},
-							{
-								"name": "#4 Enigma Team",
-								"Score Keeper": "John Doe",
-								"Years of Experience": "4.6 Years",
-								"Last activity": [{
-									"Game Starting Team": "4:45 pm",
-									"Current Situtation Card": 48939
-								}]
-							}
-						]
-					}
-				]
-			}
-		]
-	}]
+			"name": "sale",
+			"Groups": [{
+					"name": "Group1",
+					"Average GPeople Score": "10",
+					"Average GBusiness Score": "1.2",
+					"Average GCustomer Score": "-0.8",
+					"People Score para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business Score para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer Score para": "You valur customers and will most likely to extend yourself accordingly",
+					"High People Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low People Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score Keeper": "John Doe",
+							"Years of Experience": "4.6 Years",
+							"Last activity": [{
+								"Game Starting Team": "4:45 pm",
+								"Current Situtation Card": 48939
+							}],
+							"Average TPeople Score": "10",
+							"Average TBusiness Score": "1.2",
+							"Average TCustomer Score": "-0.8",
 
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "11",
+									"Business Score": "2",
+									"Customer Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Manager",
+									"Year of Experience": "1.9 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "8",
+									"Business Score": "1",
+									"Customer Score": "-2"
+								},
+								{
+									"name": "wer",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "1"
+								},
+								{
+									"name": "uxv",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "11",
+									"Business Score": "-1",
+									"Customer Score": "1"
+								},
+								{
+									"name": "ymla",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score Keeper": "John Doe",
+							"Years of Experience": "4.6 Years",
+							"Last activity": [{
+								"Game Starting Team": "4:45 pm",
+								"Current Situtation Card": 48939
+
+							}],
+							"Average TPeople Score": "10",
+							"Average TBusiness Score": "1.2",
+							"Average TCustomer Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "11",
+									"Business Score": "2",
+									"Customer Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "8",
+									"Business Score": "1",
+									"Customer Score": "-2"
+								},
+								{
+									"name": "opa",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "1"
+								},
+								{
+									"name": "qqq",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "11",
+									"Business Score": "-1",
+									"Customer Score": "1"
+								},
+								{
+									"name": "ppp",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score Keeper": "John Doe",
+							"Years of Experience": "4.6 Years",
+							"Last activity": [{
+								"Game Starting Team": "4:45 pm",
+								"Current Situtation Card": 48939
+							}],
+							"Average TPeople Score": "10",
+							"Average TBusiness Score": "1.2",
+							"Average TCustomer Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "11",
+									"Business Score": "2",
+									"Customer Score": "-3"
+								},
+								{
+									"name": "aaaaa",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "8",
+									"Business Score": "1",
+									"Customer Score": "-2"
+								},
+								{
+									"name": "opop",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "1"
+								},
+								{
+									"name": "density",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "11",
+									"Business Score": "-1",
+									"Customer Score": "1"
+								},
+								{
+									"name": "opaque",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Group2",
+					"Average GPeople Score": "10",
+					"Average GBusiness Score": "1.2",
+					"Average GCustomer Score": "-0.8",
+					"People Score para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business Score para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer Score para": "You valur customers and will most likely to extend yourself accordingly",
+					"High People Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low People Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score Keeper": "John Doe",
+							"Years of Experience": "4.6 Years",
+							"Last activity": [{
+								"Game Starting Team": "4:45 pm",
+								"Current Situtation Card": 48939
+							}],
+							"Average TPeople Score": "10",
+							"Average TBusiness Score": "1.8",
+							"Average TCustomer Score": "0",
+							"Players": [{
+									"name": "weer",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								},
+								{
+									"name": "laksl",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "9",
+									"Business Score": "3",
+									"Customer Score": "2"
+								},
+								{
+									"name": "mirror",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "11",
+									"Business Score": "3",
+									"Customer Score": "2"
+								},
+								{
+									"name": "lfde",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "-1",
+									"Customer Score": "-2"
+								}, {
+									"name": "ioqwjzs",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score Keeper": "John Doe",
+							"Years of Experience": "4.6 Years",
+							"Last activity": [{
+								"Game Starting Team": "4:45 pm",
+								"Current Situtation Card": 48939
+							}],
+							"Average TPeople Score": "10.2",
+							"Average TBusiness Score": "2",
+							"Average TCustomer Score": "-1.6",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								},
+								{
+									"name": "oqko",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "8",
+									"Business Score": "2",
+									"Customer Score": "-2"
+								}, {
+									"name": "owsokdpx",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "12",
+									"Business Score": "1",
+									"Customer Score": "-1"
+								}, {
+									"name": "ostrich",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "9",
+									"Business Score": "3",
+									"Customer Score": "-2"
+								}, {
+									"name": "owl",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "12",
+									"Business Score": "2",
+									"Customer Score": "-2"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score Keeper": "John Doe",
+							"Years of Experience": "4.6 Years",
+							"Last activity": [{
+								"Game Starting Team": "4:45 pm",
+								"Current Situtation Card": 48939
+							}],
+							"Average TPeople Score": "10",
+							"Average TBusiness Score": "2",
+							"Average TCustomer Score": "-1",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								},
+								{
+									"name": "kiwi",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}, {
+									"name": "ioqois",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}, {
+									"name": "moosa",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}, {
+									"name": "pasha",
+									"Designation": "Software Engg",
+									"Year of Experience": "1 year",
+									"Date and Time": [{
+											"Tues 3 March :: 3:23": "Submitted response for situation 3"
+										},
+										{
+											"Tues 4 March :: 3:23": "Submitted response for situation 4"
+										}
+									],
+									"People Score": "10",
+									"Business Score": "2",
+									"Customer Score": "-1"
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "Managment",
+			"Groups": [{
+				"name": "Group1",
+				"Average GPeople Score": "10",
+				"Average GBusiness Score": "2",
+				"Average GCustomer Score": "-1",
+				"People Score para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business Score para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer Score para": "You valur customers and will most likely to extend yourself accordingly",
+				"High People Score": "Takes into consideration the final prospective ,effective use of resource",
+				"Low People Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score Keeper": "John Doe",
+					"Years of Experience": "4.6 Years",
+					"Last activity": [{
+						"Game Starting Team": "4:45 pm",
+						"Current Situtation Card": 48939
+					}],
+					"Average TPeople Score": "10",
+					"Average TBusiness Score": "2",
+					"Average TCustomer Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "popoa",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "xewew",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "yell",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "hell",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score Keeper": "John Doe",
+					"Years of Experience": "4.6 Years",
+					"Last activity": [{
+						"Game Starting Team": "4:45 pm",
+						"Current Situtation Card": 48939
+					}],
+					"Average TPeople Score": "10",
+					"Average TBusiness Score": "2",
+					"Average TCustomer Score": "-1",
+					"Players": [{
+							"name": "crow",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "sparrow",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}, {
+							"name": "xiowqo",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}, {
+							"name": "wqpiwq",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}, {
+							"name": "beautiful",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}
+					]
+				}]
+			}, {
+				"name": "Group2",
+				"Average GPeople Score": "10",
+				"Average GBusiness Score": "2",
+				"Average GCustomer Score": "-1",
+				"People Score para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business Score para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer Score para": "You valur customers and will most likely to extend yourself accordingly",
+				"High People Score": "Takes into consideration the final prospective ,effective use of resource",
+				"Low People Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score Keeper": "John Doe",
+					"Years of Experience": "4.6 Years",
+					"Last activity": [{
+						"Game Starting Team": "4:45 pm",
+						"Current Situtation Card": 48939
+					}],
+					"Average TPeople Score": "10",
+					"Average TBusiness Score": "2",
+					"Average TCustomer Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "wer",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "varsha",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "ritu",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}, {
+							"name": "alexa",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score Keeper": "John alexa",
+					"Years of Experience": "4.6 Years",
+					"Last activity": [{
+						"Game Starting Team": "4:45 pm",
+						"Current Situtation Card": 48939
+					}],
+					"Average TPeople Score": "10",
+					"Average TBusiness Score": "2",
+					"Average TCustomer Score": "-1",
+					"Players": [{
+							"name": "nobhita",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "sonio",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"Date and Time": [{
+									"Tues 3 March :: 3:23": "Submitted response for situation 3"
+								},
+								{
+									"Tues 4 March :: 3:23": "Submitted response for situation 4"
+								}
+							],
+							"Designation": "Software Engg",
+							"Year of Experience": "1 year",
+							"People Score": "10",
+							"Business Score": "2",
+							"Customer Score": "-1"
+						}
+					]
+				}]
+			}]
+		}]
+
+	}]
 }
