@@ -1,7 +1,9 @@
 {
-	"Organization": [{
+	"Organization": [
+	  {
 		"name": "Tcs",
-		"Department": [{
+		"Department": [
+		  {
 			"name": "sale",
 			"Groups": [{
 					"name": "Group1",
@@ -760,5 +762,2293 @@
 			}]
 		}]
 
-	}]
+	  },
+	  {
+		"name": "Navyug",
+		"Department": [
+		  {
+			"name": "sale",
+			"Groups": [{
+					"name": "Group1",
+					"Average_GPeople_Score": "10",
+					"Average_GBusiness_Score": "1.2",
+					"Average_GCustomer_Score": "-0.8",
+					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+					"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Manager",
+									"Year_of_Experience": "1.9 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "wer",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "uxv",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "ymla",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "opa",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "qqq",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "ppp",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "aaaaa",
+									"Designation": "Software Engg",
+									"Year_f_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "opop",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "density",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "opaque",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Group2",
+					"Average_GPeople_Score": "10",
+					"Average_GBusiness_Score": "1.2",
+					"Average_GCustomer_Score": "-0.8",
+					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+					"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.8",
+							"Average_TCustomer_Score": "0",
+							"Players": [{
+									"name": "weer",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "laksl",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "9",
+									"Business_Score": "3",
+									"Customer_Score": "2"
+								},
+								{
+									"name": "mirror",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "3",
+									"Customer_Score": "2"
+								},
+								{
+									"name": "lfde",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "-1",
+									"Customer_Score": "-2"
+								}, {
+									"name": "ioqwjzs",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10.2",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1.6",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "oqko",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "2",
+									"Customer_Score": "-2"
+								}, {
+									"name": "owsokdpx",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "12",
+									"Business_Score": "1",
+									"Customer_Score": "-1"
+								}, {
+									"name": "ostrich",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "9",
+									"Business_Score": "3",
+									"Customer_Score": "-2"
+								}, {
+									"name": "owl",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "12",
+									"Business_Score": "2",
+									"Customer_Score": "-2"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "kiwi",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "ioqois",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "moosa",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "pasha",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "Managment",
+			"Groups": [{
+				"name": "Group1",
+				"Average_GPeople_Score": "10",
+				"Average_GBusiness_Score": "2",
+				"Average_GCustomer_Score": "-1",
+				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+				"High_People_core": "Takes into consideration the final prospective ,effective use of resource",
+				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "popoa",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xewew",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "yell",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "hell",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "crow",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "sparrow",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "xiowqo",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "wqpiwq",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "beautiful",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}]
+			}, {
+				"name": "Group2",
+				"Average_GPeople_Score": "10",
+				"Average_GBusiness_Score": "2",
+				"Average_GCustomer_Score": "-1",
+				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+				"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "wer",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "varsha",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "ritu",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "alexa",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John alexa",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "nobhita",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "sonio",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}]
+			}]
+		}]
+	  },
+	  {
+		"name": "Infosys",
+		"Department": [
+		  {
+			"name": "sale",
+			"Groups": [{
+					"name": "Group1",
+					"Average_GPeople_Score": "10",
+					"Average_GBusiness_Score": "1.2",
+					"Average_GCustomer_Score": "-0.8",
+					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+					"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Manager",
+									"Year_of_Experience": "1.9 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "wer",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "uxv",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "ymla",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "opa",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "qqq",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "ppp",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "aaaaa",
+									"Designation": "Software Engg",
+									"Year_f_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "opop",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "density",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "opaque",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Group2",
+					"Average_GPeople_Score": "10",
+					"Average_GBusiness_Score": "1.2",
+					"Average_GCustomer_Score": "-0.8",
+					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+					"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.8",
+							"Average_TCustomer_Score": "0",
+							"Players": [{
+									"name": "weer",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "laksl",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "9",
+									"Business_Score": "3",
+									"Customer_Score": "2"
+								},
+								{
+									"name": "mirror",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "3",
+									"Customer_Score": "2"
+								},
+								{
+									"name": "lfde",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "-1",
+									"Customer_Score": "-2"
+								}, {
+									"name": "ioqwjzs",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10.2",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1.6",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "oqko",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "2",
+									"Customer_Score": "-2"
+								}, {
+									"name": "owsokdpx",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "12",
+									"Business_Score": "1",
+									"Customer_Score": "-1"
+								}, {
+									"name": "ostrich",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "9",
+									"Business_Score": "3",
+									"Customer_Score": "-2"
+								}, {
+									"name": "owl",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "12",
+									"Business_Score": "2",
+									"Customer_Score": "-2"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "kiwi",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "ioqois",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "moosa",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "pasha",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "Managment",
+			"Groups": [{
+				"name": "Group1",
+				"Average_GPeople_Score": "10",
+				"Average_GBusiness_Score": "2",
+				"Average_GCustomer_Score": "-1",
+				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+				"High_People_core": "Takes into consideration the final prospective ,effective use of resource",
+				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "popoa",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xewew",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "yell",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "hell",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "crow",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "sparrow",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "xiowqo",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "wqpiwq",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "beautiful",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}]
+			}, {
+				"name": "Group2",
+				"Average_GPeople_Score": "10",
+				"Average_GBusiness_Score": "2",
+				"Average_GCustomer_Score": "-1",
+				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+				"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "wer",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "varsha",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "ritu",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "alexa",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John alexa",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "nobhita",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "sonio",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}]
+			}]
+		}]
+	  },
+	  {
+		"name": "Catalyst",
+		"Department": [
+		  {
+			"name": "sale",
+			"Groups": [{
+					"name": "Group1",
+					"Average_GPeople_Score": "10",
+					"Average_GBusiness_Score": "1.2",
+					"Average_GCustomer_Score": "-0.8",
+					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+					"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Manager",
+									"Year_of_Experience": "1.9 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "wer",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "uxv",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "ymla",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "abc",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "opa",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "qqq",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "ppp",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#3 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.2",
+							"Average_TCustomer_Score": "-0.8",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "2",
+									"Customer_Score": "-3"
+								},
+								{
+									"name": "aaaaa",
+									"Designation": "Software Engg",
+									"Year_f_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "1",
+									"Customer_Score": "-2"
+								},
+								{
+									"name": "opop",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "density",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "-1",
+									"Customer_Score": "1"
+								},
+								{
+									"name": "opaque",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Group2",
+					"Average_GPeople_Score": "10",
+					"Average_GBusiness_Score": "1.2",
+					"Average_GCustomer_Score": "-0.8",
+					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+					"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+					"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+					"Team": [{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "1.8",
+							"Average_TCustomer_Score": "0",
+							"Players": [{
+									"name": "weer",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "laksl",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "9",
+									"Business_Score": "3",
+									"Customer_Score": "2"
+								},
+								{
+									"name": "mirror",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "11",
+									"Business_Score": "3",
+									"Customer_Score": "2"
+								},
+								{
+									"name": "lfde",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "-1",
+									"Customer_Score": "-2"
+								}, {
+									"name": "ioqwjzs",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10.2",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1.6",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "oqko",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "8",
+									"Business_Score": "2",
+									"Customer_Score": "-2"
+								}, {
+									"name": "owsokdpx",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "12",
+									"Business_Score": "1",
+									"Customer_Score": "-1"
+								}, {
+									"name": "ostrich",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "9",
+									"Business_Score": "3",
+									"Customer_Score": "-2"
+								}, {
+									"name": "owl",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "12",
+									"Business_Score": "2",
+									"Customer_Score": "-2"
+								}
+							]
+						},
+						{
+							"name": "#4 Enigma Team",
+							"Score_Keeper": "John Doe",
+							"Years_of_Experience": "4.6 Years",
+							"Last_activity": [{
+								"Game_Starting_Team": "4:45 pm",
+								"Current_Situtation_Card": 48939
+							}],
+							"Average_TPeople_Score": "10",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1",
+							"Players": [{
+									"name": "xyz",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								},
+								{
+									"name": "kiwi",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "ioqois",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "moosa",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}, {
+									"name": "pasha",
+									"Designation": "Software Engg",
+									"Year_of_Experience": "1 year",
+									"d": {
+										"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+										"desc": ["response 1 submitted", "response 2 submitted"]
+									},
+									"People_Score": "10",
+									"Business_Score": "2",
+									"Customer_Score": "-1"
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "Managment",
+			"Groups": [{
+				"name": "Group1",
+				"Average_GPeople_Score": "10",
+				"Average_GBusiness_Score": "2",
+				"Average_GCustomer_Score": "-1",
+				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+				"High_People_core": "Takes into consideration the final prospective ,effective use of resource",
+				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "popoa",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xewew",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "yell",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "hell",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "crow",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "sparrow",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "xiowqo",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "wqpiwq",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "beautiful",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}]
+			}, {
+				"name": "Group2",
+				"Average_GPeople_Score": "10",
+				"Average_GBusiness_Score": "2",
+				"Average_GCustomer_Score": "-1",
+				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
+				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
+				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
+				"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
+				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
+				"Team": [{
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John Doe",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "wer",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "varsha",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "ritu",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}, {
+							"name": "alexa",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}, {
+					"name": "#4 Enigma Team",
+					"Score_Keeper": "John alexa",
+					"Years_of_Experience": "4.6 Years",
+					"Last_activity": [{
+						"Game_Starting_Team": "4:45 pm",
+						"Current_Situtation_Card": 48939
+					}],
+					"Average_TPeople_Score": "10",
+					"Average_TBusiness_Score": "2",
+					"Average_TCustomer_Score": "-1",
+					"Players": [{
+							"name": "nobhita",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "sonio",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						},
+						{
+							"name": "xyz",
+							"d": {
+								"time": ["2012-04-21T18:25:43-05:00", "2012-04-21T18:25:43-05:00"],
+								"desc": ["response 1 submitted", "response 2 submitted"]
+							},
+							"Designation": "Software Engg",
+							"Year_of_Experience": "1 year",
+							"People_Score": "10",
+							"Business_Score": "2",
+							"Customer_Score": "-1"
+						}
+					]
+				}]
+			}]
+		}]
+	  }
+	  
+	]
 }
