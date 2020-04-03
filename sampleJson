@@ -473,7 +473,7 @@
 				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
-				"High_People_core": "Takes into consideration the final prospective ,effective use of resource",
+				"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
 				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
 				"Team": [{
 					"name": "#4 Enigma Team",
@@ -1236,7 +1236,7 @@
 				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
-				"High_People_core": "Takes into consideration the final prospective ,effective use of resource",
+				"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
 				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
 				"Team": [{
 					"name": "#4 Enigma Team",
@@ -1998,7 +1998,7 @@
 				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
-				"High_People_core": "Takes into consideration the final prospective ,effective use of resource",
+				"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
 				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
 				"Team": [{
 					"name": "#4 Enigma Team",
@@ -2760,7 +2760,7 @@
 				"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 				"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 				"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
-				"High_People_core": "Takes into consideration the final prospective ,effective use of resource",
+				"High_People_Score": "Takes into consideration the final prospective ,effective use of resource",
 				"Low_People_Score": "Sights the impact from point of view of the internet/external customer or other",
 				"Team": [{
 					"name": "#4 Enigma Team",
