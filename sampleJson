@@ -8,8 +8,8 @@
 			"Groups": [{
 					"name": "Group1",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "2",
+					"Average_GCustomer_Score": "-1",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -24,8 +24,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1",
 
 							"Players": [{
 									"name": "xyz",
@@ -99,8 +99,8 @@
 
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "2",
+							"Average_TCustomer_Score": "-1",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -172,8 +172,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "-1",
+							"Average_TCustomer_Score": "-2",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -241,8 +241,8 @@
 				{
 					"name": "Group2",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "2",
+					"Average_GCustomer_Score": "-1",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -257,7 +257,7 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.8",
+							"Average_TBusiness_Score": "1",
 							"Average_TCustomer_Score": "0",
 							"Players": [{
 									"name": "weer",
@@ -328,9 +328,9 @@
 								"Game_Starting_Team": "4:45 pm",
 								"Current_Situtation_Card": 48939
 							}],
-							"Average_TPeople_Score": "10.2",
+							"Average_TPeople_Score": "10",
 							"Average_TBusiness_Score": "2",
-							"Average_TCustomer_Score": "-1.6",
+							"Average_TCustomer_Score": "-1",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -771,8 +771,8 @@
 			"Groups": [{
 					"name": "Group1",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "1",
+					"Average_GCustomer_Score": "-2",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -787,8 +787,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-2",
 
 							"Players": [{
 									"name": "xyz",
@@ -862,8 +862,8 @@
 
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-2",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -935,8 +935,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-2",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -1004,8 +1004,8 @@
 				{
 					"name": "Group2",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "1",
+					"Average_GCustomer_Score": "-2",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -1020,7 +1020,7 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.8",
+							"Average_TBusiness_Score": "1",
 							"Average_TCustomer_Score": "0",
 							"Players": [{
 									"name": "weer",
@@ -1091,9 +1091,9 @@
 								"Game_Starting_Team": "4:45 pm",
 								"Current_Situtation_Card": 48939
 							}],
-							"Average_TPeople_Score": "10.2",
+							"Average_TPeople_Score": "10",
 							"Average_TBusiness_Score": "2",
-							"Average_TCustomer_Score": "-1.6",
+							"Average_TCustomer_Score": "-1",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -1533,8 +1533,8 @@
 			"Groups": [{
 					"name": "Group1",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "1",
+					"Average_GCustomer_Score": "-2",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -1549,8 +1549,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "0",
 
 							"Players": [{
 									"name": "xyz",
@@ -1624,8 +1624,8 @@
 
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-1",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -1697,8 +1697,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-2",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -1766,8 +1766,8 @@
 				{
 					"name": "Group2",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "1",
+					"Average_GCustomer_Score": "-2",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -1782,7 +1782,7 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.8",
+							"Average_TBusiness_Score": "1",
 							"Average_TCustomer_Score": "0",
 							"Players": [{
 									"name": "weer",
@@ -1855,7 +1855,7 @@
 							}],
 							"Average_TPeople_Score": "10.2",
 							"Average_TBusiness_Score": "2",
-							"Average_TCustomer_Score": "-1.6",
+							"Average_TCustomer_Score": "-1",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -2295,8 +2295,8 @@
 			"Groups": [{
 					"name": "Group1",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "1",
+					"Average_GCustomer_Score": "-2",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -2311,8 +2311,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-2",
 
 							"Players": [{
 									"name": "xyz",
@@ -2386,8 +2386,8 @@
 
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-1",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -2459,8 +2459,8 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.2",
-							"Average_TCustomer_Score": "-0.8",
+							"Average_TBusiness_Score": "1",
+							"Average_TCustomer_Score": "-2",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
@@ -2528,8 +2528,8 @@
 				{
 					"name": "Group2",
 					"Average_GPeople_Score": "10",
-					"Average_GBusiness_Score": "1.2",
-					"Average_GCustomer_Score": "-0.8",
+					"Average_GBusiness_Score": "1",
+					"Average_GCustomer_Score": "-2",
 					"People_Score_para": "You are empathetic in your dealings with people,you would prefer doing bisiness in friendly manner and keeps people oriented approach while solving problems. Managing the morale,satisfaction levels and happiness of people working with.",
 					"Business_Score_para": "You will most likely to take the business ,result focussed prospective while making decisions.",
 					"Customer_Score_para": "You valur customers and will most likely to extend yourself accordingly",
@@ -2544,7 +2544,7 @@
 								"Current_Situtation_Card": 48939
 							}],
 							"Average_TPeople_Score": "10",
-							"Average_TBusiness_Score": "1.8",
+							"Average_TBusiness_Score": "1",
 							"Average_TCustomer_Score": "0",
 							"Players": [{
 									"name": "weer",
@@ -2615,9 +2615,9 @@
 								"Game_Starting_Team": "4:45 pm",
 								"Current_Situtation_Card": 48939
 							}],
-							"Average_TPeople_Score": "10.2",
+							"Average_TPeople_Score": "10",
 							"Average_TBusiness_Score": "2",
-							"Average_TCustomer_Score": "-1.6",
+							"Average_TCustomer_Score": "-1",
 							"Players": [{
 									"name": "xyz",
 									"Designation": "Software Engg",
